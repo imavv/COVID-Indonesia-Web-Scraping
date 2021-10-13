@@ -1,4 +1,4 @@
-# TSDN-2021
+# COVID Indonesia Web Scraping
 
 Scraped data from:
 - Vaccine data: https://riwayat-file-vaksinasi-dki-jakarta-jakartagis.hub.arcgis.com
